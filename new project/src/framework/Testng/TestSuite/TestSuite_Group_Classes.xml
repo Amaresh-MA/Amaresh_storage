@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="default-suite">
+		<test name="Test1">
+				<classes>
+						<class name="framework.Testng.TestSuite.Class1"></class>
+						<class name="framework.Testng.TestSuite.Class2"></class>
+						<class name="framework.Testng.TestSuite.Class3"></class>
+				</classes>
+		</test>
+</suite>

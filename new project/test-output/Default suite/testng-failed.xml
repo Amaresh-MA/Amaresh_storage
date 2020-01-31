@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="framework.Testng.Testng_WebDriver_Testcase">
+        <methods>
+          <include name="Tc003_Verify_Messenger_page"/>
+          <include name="Tc004_Verify_Games_page"/>
+          <include name="Tc005_Verify__page_link"/>
+          <include name="setUpBeforeClass"/>
+          <include name="Tc002_Verify_SignIn_page"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="tearDownAfterClass"/>
+        </methods>
+      </class> <!-- framework.Testng.Testng_WebDriver_Testcase -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

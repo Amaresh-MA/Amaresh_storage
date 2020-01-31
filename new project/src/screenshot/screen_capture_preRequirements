@@ -1,0 +1,10 @@
+/*
+		 *** 	Note:-->To use fileutils[local folders and files] in selenium 
+		 * 			3.6 above version ,below downloads required.  
+		 * 
+		 *** URL:--> https://commons.apache.org/proper/commons-io/download_io.cgi
+		 * 		   Download binrary file  --> commons-io-2.6-bin.zip
+		 
+		 
+		 *** 		   Unzip file and configure all executable jar files to selenium-project.
+ */
